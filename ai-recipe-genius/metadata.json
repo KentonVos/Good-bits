@@ -1,0 +1,6 @@
+{
+  "name": "AI Recipe Genius",
+  "description": "A recipe maker that suggests recipes based on the ingredients you have. Just type in what's in your fridge, and get creative cooking ideas instantly!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
